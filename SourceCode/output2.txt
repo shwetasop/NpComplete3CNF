@@ -1,5 +1,0 @@
-
- No satisfying assignment
-
- Running time is 0.0000 ms 
- 
