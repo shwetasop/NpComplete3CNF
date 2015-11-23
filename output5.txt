@@ -1,0 +1,4 @@
+There are satisfying assignments
+
+ Running time is 0.0000 ms 
+ 
