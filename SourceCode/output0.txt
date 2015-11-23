@@ -1,0 +1,10 @@
+The solution is :
+x[0]:0
+x[1]:1
+x[2]:0
+The solution is :
+x[0]:0
+x[1]:0
+
+ Running time is 0.0000 ms 
+ 
